@@ -1,0 +1,6 @@
+[requires]
+OpenSSL/1.0.2o@conan/stable
+fmt/5.2.1@bincrafters/stable
+
+[generators]
+cmake
